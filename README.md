@@ -2,7 +2,7 @@
 
 [![JDK](https://img.shields.io/badge/JDK-1.17-blue.svg)](https://www.spigotmc.org/resources/healingcampfires)
 [![Supported versions](https://img.shields.io/badge/Minecraft-1.17--1.21.5-green.svg)](https://www.spigotmc.org/resources/healingcampfires)
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-yellow.svg)](https://www.spigotmc.org/resources/healingcampfires)
+[![SpigotMC](https://img.shields.io/badge/Buy_on_SpigotMC-yellow.svg)](https://www.spigotmc.org/resources/%E2%9D%A4%EF%B8%8F-healingcampfires-1-17-1-21-5.125199/)
 [![bStats](https://img.shields.io/badge/bStats-00695c)](https://bstats.org/plugin/bukkit/HealingCampfires)
 
 > **Warm up. Heal up. Gear up.**
